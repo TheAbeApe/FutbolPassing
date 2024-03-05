@@ -29,4 +29,5 @@ for x in range(len(df['x'])):
 plt.title('Messi passes vs Betis',color= 'black', size=20)
 
 plt.show()
+plt.savefig('passingpngs/messibetis.png')
 
