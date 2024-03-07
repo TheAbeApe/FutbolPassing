@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #2772db; 
+    color:#f5ebeb;
+}
+header{
+    background: #070f4e;
+    padding: 10px 0;
+    text-align: center;
+    background:#070f4e ;
+    margin: 10px;   
+
+}
+.first-color { 
+	background: #070f4e; 
+}
+	
+.second-color { 
+	background: #2772db; 
+}
+
+.third-color { 
+	background: #3ab1c8; 
+}
+
+.fourth-color { 
+	background: #f5ebeb; 
+}
