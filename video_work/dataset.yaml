@@ -1,0 +1,13 @@
+train: C:/Users/7kevi/Documents/GitHub/FutbolPassing/data/train
+val: C:/Users/7kevi/Documents/GitHub/FutbolPassing/data/valid
+test: C:/Users/7kevi/Documents/GitHub/FutbolPassing/data/test
+
+# train_annotation: C:/Users/7kevi/Documents/GitHub/FutbolPassing/football-boxes-1/train/
+# val_annotation: C:/Users/7kevi/Documents/GitHub/FutbolPassing/football-boxes-1/valid/
+# est_annotation: C:/Users/7kevi/Documents/GitHub/FutbolPassing/football-boxes-1/test/
+# number of classes
+nc: 8
+
+# class names
+names: ["Football-Boxes", "18Yard", "18Yard Circle", "5Yard", "First Half Central Circle", "First Half Field", "Second Half Central Circle", "Second Half Field"]
+
